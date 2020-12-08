@@ -8,13 +8,13 @@
 
 ## Frontend Roadmap
 
-![Image text](https://github.com/chen-xiaowu618/roadmap-cn/tree/master/img/frontend-map.png)
+![Image text](img/frontend-map.png)
 
 ## Backend Roadmap
 
-![Image text](https://github.com/chen-xiaowu618/roadmap-cn/tree/master/img/backend-map.png)
+![Image text](img/backend-map.png)
 
 
 ## DevOps Roadmap
 
-![Image text](https://github.com/chen-xiaowu618/roadmap-cn/tree/master/img/devops-map.png)
+![Image text](img/devops-map.png)
